@@ -14,4 +14,4 @@ RUN pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org --
 EXPOSE 5000
 
 # Run the application
-CMD ["python", "app.py"]
+CMD ["python", "main.py"]
