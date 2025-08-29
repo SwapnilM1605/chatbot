@@ -4,8 +4,6 @@ venv/
 env/
 .venv/
 ENV/
-# Local config files containing secrets
-config.py
 
 # Prevent committing secret files
 *.key
